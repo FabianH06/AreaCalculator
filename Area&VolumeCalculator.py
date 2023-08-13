@@ -1,3 +1,5 @@
+#Currently only works with the following shapes: rectangle, square, triangle, circle, trapezoid, rhombus, parallelogram
+
 from subprocess import call
 
 while True:
