@@ -1,3 +1,4 @@
+#By Fabian Hasin
 def get_numeric_input(prompt):
     while True:
         user_input = input(prompt)
