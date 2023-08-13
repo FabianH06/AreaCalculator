@@ -1,3 +1,4 @@
+#Please run it on "Visual Studio Code" to use the Calculator.
 #Currently only works with the following shapes: rectangle, square, triangle, circle, trapezoid, rhombus, parallelogram
 
 from subprocess import call
